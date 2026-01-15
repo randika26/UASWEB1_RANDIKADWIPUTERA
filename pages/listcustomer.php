@@ -56,7 +56,7 @@ if (!$data) {
 <div class="card">
     <div class="card-header">
         <h3>List Pelanggan</h3>
-        <a href="dashboard.php?page=tambah-pelanggan" class="btn btn-tambah">+ Tambah Pelanggan</a>
+        <a href="dashboard.php?page=tambah-customer" class="btn btn-tambah">+ Tambah Pelanggan</a>
     </div>
     <table>
         <thead>
