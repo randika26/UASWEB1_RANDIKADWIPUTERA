@@ -83,7 +83,7 @@ if (!$data) {
                     <td><?= $row['no_hp']; ?></td>
                     <td><?= $row['email']; ?></td>
                     <td style="text-align: center;">
-                        <a href="dashboard.php?page=edit-pelanggan&id=<?= $row['id_pelanggan']; ?>" class="btn btn-edit">Edit</a>
+                        <a href="dashboard.php?page=edit-customer&id=<?= $row['id_pelanggan']; ?>" class="btn btn-edit">Edit</a>
                         
                         <a href="dashboard.php?page=hapus-pelanggan&id=<?= $row['id_pelanggan']; ?>"
                            class="btn btn-hapus"
